@@ -1,11 +1,23 @@
 h1 {
-	color: red;
+	color: rgba(0,200,100,0.8);
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+	border:2px solid rgb(255,100,80);
 }
 
-li {
-	color: green;
-}
+/*width
+style
+color
+*/
 
 h4 {
-	color: purple;
+	background: rgb(255,100,80);
+}
+
+body {
+	background: pink;
+	/*background: url(http://cache2.asset-cache.net/xt/170235272.jpg?v=1&g=fs1%7C0%7CEPL%7C35%7C272&s=1&b=RjI4); 
+	background-repeat: no-repeat;
+	background-size: cover;*/
 }
